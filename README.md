@@ -6,7 +6,7 @@ cellular automatta simulation.
 
 1)- states.py will run a 1-dim cellular automatta that is set a rule 30. the rules/class is in Alpha.py
 
-2)- aging.py will run a version of conways game of life with conways game of life with some modified rules.
+2)- aging.py will run a version of conways game of life with some modified rules.
          the longer a cell is active the "older" it gets. after a certain age the cell dies and "blooms"
          where all the surronding cells become active. the rules/class is game_of_life_aging.py
          
