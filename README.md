@@ -13,8 +13,8 @@ cellular automatta simulation.
 3)- mixRun.py will run a simulation of conways game a life with a few added rules.
          The longer a cell is active the older it becomes after a certain age the cell will "bloom" 
          causing all surronding cells to become active
-         The difference between this and aging rules is that a new cell is created it 
+         The difference between this and aging rules is that when a new cell is created, it 
          inherites the colors of its parents. also when a cell blooms the new surronding cells will 
          have the same color but with 50 added to the green value
-         when a cell would obtain a green color value of over 255 the green color is cleared and 50 is added to blue
-         the same is true for blue to red
+         when a cell would obtain a green color value of over 255 the green color is cleared and 50 is 
+         added to blue. the same is true for blue to red
